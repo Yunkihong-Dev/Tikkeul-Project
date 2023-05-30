@@ -8,12 +8,10 @@
     <title>Document</title>
     <link rel="stylesheet" href="/css/mypage/jumoon.css">
     <link rel="stylesheet" href="/css/mypage/cancelmodal.css">
-    <link rel="stylesheet" href="/css/header/headerking.css">
 </head>
 
 <body class="vsc-initialized" style="overflow: auto">
-<div class="web-header" th:replace="~{/header/header::.web-header}" >
-</div>
+
 
 <div id="page-container" th:object="${hugi}">
     <main id="main-app">
@@ -54,7 +52,7 @@
                             </div>
                         </div>
 
-                        <form th:action="@{/mypage/huhu}" method="post" th:object="${reviewVO}">
+                        <form th:action="@{/mypage/huhuchange}" method="post" th:object="${hugisujung}">
 
                             <div class="ReactModalPortal" style="display: none;">
                                 <div class="ReactModal__Overlay ReactModal__Overlay--after-open ConfirmModal_overlay__9xcDs waffle__modal__overlay" style="background-color: rgba(0, 0, 0, 0.2)">
@@ -191,9 +189,6 @@
     </button>
 </div>
 </main>
-    <div >
-        <footer id="footer" th:replace="~{/footer/footer::footer}"></footer>
-    </div>
 
 </div>
 <div id="wadiz-app-banner"></div>
@@ -221,5 +216,4 @@
 
 
 </script>
-<script src="/js/header/header.js"></script>
 </html>

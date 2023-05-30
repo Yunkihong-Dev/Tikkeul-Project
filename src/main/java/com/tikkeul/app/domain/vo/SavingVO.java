@@ -8,13 +8,9 @@ import org.springframework.stereotype.Component;
 @NoArgsConstructor
 public class SavingVO {
     private Long id;
-    private String date;
-    private int money;
+    private int title;
     private String status;
-    private String startDate;
-    private String endDate;
+    private String start;
+    private String end;
     private Long userId;
-    private Long levelId;
-
-
 }
