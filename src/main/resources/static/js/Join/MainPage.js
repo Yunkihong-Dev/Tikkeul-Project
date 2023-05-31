@@ -60,7 +60,7 @@ function loaditems(items) {
                         <span class="SchoolLectureListDesktop_background__2Kqf_ SchoolLectureListDesktop_visible__2lI79">
                             <img src="/files/display?fileName=${item.filePath}/t_${item.fileUuid}_${item.fileOriginName}" class="preview" style="width: 170px" alt="${item.fileOriginName}">
                             </span>
-                        <a href="/join/gotosavingdetails?id=${item.itemId}">
+                        <a href="/item/readDetail?id=${item.itemId}">
                             <div class="SchoolLectureListDesktop_lectureCon__BhKMl">
                                 <p class="SchoolLectureListDesktop_lectureType__8_hUF">
                                             <span>
