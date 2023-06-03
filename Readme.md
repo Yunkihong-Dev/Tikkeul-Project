@@ -12,7 +12,7 @@
 
 
 <h2>2. 기대 효과</h2>
-<img src="https://github.com/Yunkihong-Dev/Tikkeul-Project/assets/81303136/24b78f4d-7bc6-40d3-a22e-68b8bd25ddf4" style = "width: 80%; height : 480">
+<img src="https://github.com/Yunkihong-Dev/Tikkeul-Project/assets/81303136/24b78f4d-7bc6-40d3-a22e-68b8bd25ddf4" style = "width: 80%; height : 480"><br>
 STEP 1. 저축하고자 하는 이들을 각각의 레벨별로 나눠 저축을 독려한다.<br>
 STEP 2. 저축을 해 기간동안 목표금을 달성한 이들은 열매샵을 이용해 평소 구매하고싶던 제품을 다른곳에 비해 좀 더 저렴하게 구입한다.<br>
 티끌은 이용자들이 목표금까지 모으면 자신도 그 금액을 보고 뿌듯하고 그 모은돈을 최종적으로 평균시세보다 저렴한 제품을 구입할 수 있게 기획하였다. <br><br>
