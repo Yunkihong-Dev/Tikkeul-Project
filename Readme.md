@@ -25,8 +25,8 @@ STEP 2. 저축을 해 기간동안 목표금을 달성한 이들은 열매샵을
 - jQuery<br>
 - MyBatis<br>
 - Spring Boot<br>
-- MySQL<br>
-- Visual Studio Code<br>
+- Oracle<br>
+- Intelij<br>
 - DBeaver<br>
 - Sourcetree<br>
 - git, github<br>
